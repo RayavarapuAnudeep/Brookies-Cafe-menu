@@ -1,0 +1,6 @@
+{
+  "name": "Brookies Cafe - Digital QR Menu",
+  "description": "Mobile-first digital QR menu for Brookies Cafe featuring artisanal chocolate bowls, pizzas, burgers, momos, waffles, and beverages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
